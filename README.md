@@ -1,16 +1,28 @@
-## Hi there 👋
+# Bright Eret
 
-<!--
-**brighteret/brighteret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Cybersecurity Analyst** | Analyste junior en cybersécurité
+Yaoundé, Cameroon
 
-Here are some ideas to get you started:
+I secure Linux servers and web applications. / Je sécurise des serveurs Linux et des applications web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio:** https://brighteret.github.io (English) | https://brighteret.github.io/fr.html (Français)
+
+## Skills / Compétences
+
+- Linux (Ubuntu Server), SSH hardening
+- Nginx reverse proxy, load balancing, HTTPS/TLS (X.509, OpenSSL)
+- UFW firewall, ModSecurity WAF with OWASP CRS, Fail2ban
+- Nmap, Kali Linux, vulnerability analysis
+- Node.js deployment with PM2, Git/GitHub
+
+## Featured project / Projet phare
+
+**A secure environment for a web application** (test lab on virtual machines).
+Layered defense: firewall, HTTPS, web application firewall, reverse proxy. SQL injection test payloads were blocked with a 403 response. Details on my portfolio site.
+
+**Un environnement sécurisé pour une application web** (laboratoire de test sur machines virtuelles).
+Défense en couches : pare-feu, HTTPS, pare-feu applicatif, reverse proxy. Les requêtes de test d'injection SQL ont été bloquées (403). Détails sur mon site portfolio.
+
+## Contact
+
+LinkedIn: [https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/https://www.linkedin.com/in/bright-eret-183b14279/?isSelfProfile=true">)LinkedIn
