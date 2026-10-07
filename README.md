@@ -25,4 +25,4 @@ Défense en couches : pare-feu, HTTPS, pare-feu applicatif, reverse proxy. Les r
 
 ## Contact
 
-LinkedIn: [https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/https://www.linkedin.com/in/bright-eret-183b14279/?isSelfProfile=true">)LinkedIn
+LinkedIn:LinkedIn: https://www.linkedin.com/in/bright-eret-183b14279/
